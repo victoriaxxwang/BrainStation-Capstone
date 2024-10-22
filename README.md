@@ -1,4 +1,4 @@
-# CAPSTONE DEMO README
+# ECommerce_Product_Analytics
 
 ### Describe your project (big idea)
 
