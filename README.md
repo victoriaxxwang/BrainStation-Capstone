@@ -1,4 +1,4 @@
-# ECommerce_Product_Analytics 2
+# Amazon Customer Review
 
 ### Describe your project (big idea)
 
