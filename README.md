@@ -27,10 +27,10 @@ From Item Metadata: df BeautyReviewMeta : 'AmazonBeautyReview_meta.csv'
 3. rating_number: Number of ratings given for the product
 
 From basic EDA, the following insights were extracted: 
--The distribution of rating is a bit skewed towards higher ratings. 
--In general, customers are happy with the products, where their average rating is centered at 4. 
--When looking at total number of ratings by years from 2003 to 2023, there is a dramatic increase after 2017, which was when Amazon launched the "Early Reviewer Program" that incentivized customers with gift cards to leave product reviews. This highlights the importance E-commerce giants are placing on customer reviews and customer sentiment for business success and growth. 
--When looking at a preliminary extraction of the top 20 positive and negative sentiments from the reviews. We can potenitally gather insights on what is currently working well and what are potential areas of improvement. 
+1. The distribution of rating is a bit skewed towards higher ratings. 
+2. In general, customers are happy with the products, where their average rating is centered at 4. 
+3. When looking at total number of ratings by years from 2003 to 2023, there is a dramatic increase after 2017, which was when Amazon launched the "Early Reviewer Program" that incentivized customers with gift cards to leave product reviews. This highlights the importance E-commerce giants are placing on customer reviews and customer sentiment for business success and growth. 
+4. When looking at a preliminary extraction of the top 20 positive and negative sentiments from the reviews. We can potenitally gather insights on what is currently working well and what are potential areas of improvement. 
 
 ### Describe your results
 -We are still in the preliminary EDA phase, but below are next steps for the projects.
