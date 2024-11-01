@@ -13,18 +13,18 @@
 ### Describe your work (models, analysis, EDA, etc.)
 Below are the variables assessed in the EDA: 
 From User Reviews: df BeautyReview : 'AmazonBeautyReview.csv'
-user_id : ID of reviewer --> 1) No demographic data to do customer segmentation. This serves as unique reviewer identifier.
-rating : Rating from of product from 1.0 to 5.0 --> 1) Convert float to integer 2) Convert rating to sentiment buckets
-title_x : Title of the user review --> 1) Assess the relationship between the title & rating? How does that compare w/ text & rating?
-text : Text body of the user review --> 1) Assess the relationship between the title & rating? How does that compare w/ text & rating?
-timestamp : Time of review in unix time -->1) Convert to datetime (new column name time & set it as the index) to assess how other variables change with time. Break down the time into Year, Month and Week of Year.
-verified_purchase : User purchase verification --> 1) Assess the distribution of other variable per yes or no purchase verification.
-helpful_vote : Reviews that are voted to be helpful --> 1) Assess the relationship between variables and if the review is helpful.
+1. user_id : ID of reviewer --> 1) No demographic data to do customer segmentation. This serves as unique reviewer identifier.
+2. rating : Rating from of product from 1.0 to 5.0 --> 1) Convert float to integer 2) Convert rating to sentiment buckets
+3. title_x : Title of the user review --> 1) Assess the relationship between the title & rating? How does that compare w/ text & rating?
+4. text : Text body of the user review --> 1) Assess the relationship between the title & rating? How does that compare w/ text & rating?
+5. timestamp : Time of review in unix time -->1) Convert to datetime (new column name time & set it as the index) to assess how other variables change with time. Break down the time into Year, Month and Week of Year.
+6. verified_purchase : User purchase verification --> 1) Assess the distribution of other variable per yes or no purchase verification.
+7. helpful_vote : Reviews that are voted to be helpful --> 1) Assess the relationship between variables and if the review is helpful.
 
 From Item Metadata: df BeautyReviewMeta : 'AmazonBeautyReview_meta.csv'
-average_rating : Rating of product shown on the product page.
-price: Price of product in US dollars (at time of crawling or scraping)
-rating_number: Number of ratings given for the product
+1. average_rating : Rating of product shown on the product page.
+2. price: Price of product in US dollars (at time of crawling or scraping)
+3. rating_number: Number of ratings given for the product
 
 From basic EDA, the following insights were extracted: 
 -The distribution of rating is a bit skewed towards higher ratings. 
