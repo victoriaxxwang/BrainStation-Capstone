@@ -18,7 +18,7 @@ From basic EDA, the following insights were extracted:
 
 ### Describe your results
 -We are still in the preliminary EDA phase, but below are next steps for the projects.
-1. EDA on other categories from the Amazon Customer Review dataset, with the focus on distribution of user ratings, top sentiment phrases, and to increase the diversity of category training set.
+1. EDA on other categories from the Amazon Customer Review dataset, with the focus on a. distribution of user ratings, b. top sentiment phrases, and c. to increase the diversity of category training set.
 2. More in-depth text data analysis techniques, with the focus on a. Sentiment via counting sequence of words, n-grams, b. Word embeddings to create features that group similar words to handle synonyms c. Natural Language Processing (NLP) to extract meaning 
 
 ### Party!
