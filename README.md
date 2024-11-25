@@ -6,7 +6,7 @@
 ### Describe your goal
 -In the past decade, there is an exponential growth in online purchases and E-commerce platforms. Hence, Ecommerce platforms are tasked with figuring out how customers feel about their brand, the services and product they offer. The relationship between customer sentiments and factors that influence them is valuable. Sentiment analysis allows for product-customer fit, which translates to sales and profit. According to the Statista Research Department, by 2029, the revenue in the e-commerce market in the US is estimated to reach 1.9 trillion dollars. So despite the fierce competition, there’s a lot of opportunities in the e-commerce market. We want to take advantage of these opportunities by extracting data driven insights via customer sentiment to iteratively improve product-customer fit. 
 
-According to a 2024 survey that focus on the most profit Amazon sellers worldwid by product category from December 2023 to January 2024, the beauty and personal care category topped the chart. (https://www.statista.com/statistics/1400287/amazon-most-profitable-sellers-category/#:~:text=A%202024%20survey%20found%20that,with%2027%20percent%20of%20sellers.)
+According to a 2024 survey that focus on the most profit Amazon sellers worldwide by product category from December 2023 to January 2024, the beauty and personal care category topped the chart. (https://www.statista.com/statistics/1400287/amazon-most-profitable-sellers-category/#:~:text=A%202024%20survey%20found%20that,with%2027%20percent%20of%20sellers.)
 
 Hence, for this project, we will focus on the beauty and personal care category for this sentiment analysis of product reviews to see how we can leverage data to predict customer sentiment and product success.
 
