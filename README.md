@@ -2,7 +2,7 @@
 By Victoria X. Wang, December 2024, BrainStation Capstone
 
 ### Project Description
-1. Project Overview: Leveraging Sentiment Analysis and Similarity Search to Optimize Product offerings and success
+Project Overview: Leveraging Sentiment Analysis and Similarity Search to Optimize Product offerings and success
 
 In the past decade, there is an exponential growth in online purchases and E-commerce platforms. Hence, E-commerce platforms are tasked with figuring out how customers feel about their brand, the services and product they offer. The relationship between customer sentiments and factors that influence them is valuable. Sentiment analysis allows for product-customer fit, which translates to sales and profit. According to the Statista Research Department, by 2029, the revenue in the E-commerce market in the US is estimated to reach 1.9 trillion dollars. So despite the fierce competition, there’s a lot of opportunities in the E-commerce market. We want to take advantage of these opportunities by extracting data driven insights via customer text reviews to iteratively improve product-customer fit.
 
