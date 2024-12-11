@@ -108,13 +108,15 @@ Citation for Statistia E-commerce Market Insights: https://www.statista.com/stat
 Citation for beauty and personal care category as the most profitable category:
 https://www.statista.com/statistics/1400287/amazon-most-profitable-sellers-category/#:~:text=A%202024%20survey%20found%20that,with%2027%20percent%20of%20sellers.)
 
-### Notebooks
+### Notebooks & Resources
 1. Part1. Victoria_Wang_Capstone_FullDataSet_EDA: EDA on the Full beauty and personal care category dataset (McAuley Lab Amazon Reviews’23)
 2. Part2. Victoria_Wang_Capstone_01Ssubset_Embeddings: Preprocess text reviews into embeddings by utilizing Sentence-BERT (all-MiniLM-L6-v2 model)
 3. Part3. Victoria_Wang_Capstone_01Ssubset_CV_TFIDF: Preprocess text reviews into using CountVectorizer and TFIDF with SVD for dimensionality reduction.
 4. Part4. Victoria_Wang_Capstone_NewReviewSentimentPredictor: The embeddings from Victoria_Wang_Capstone_01Ssubset_Embeddings and cosine similarity calculations were used to predict new review sentiment and extract similar reviews based on contextual embeddings. 
 5. Streamlit_app.py: Streamlit App Demo Review Analyzer: Enhancing Customer Satisfaction with Data-Driven Product Insights. Please refer to the streamlit_app.py file for the demo. The codes from Part4. Victoria_Wang_Capstone_NewReviewSentimentPredictor was transformed into the streamlit_app.py file in order to run the demo.
 6. Capstone_based_env.yaml: Environment for the notebooks.
+7. Embedding_X.csv: Embeddings saved from preprocessing performed in notebook Victoria_Wang_Capstone_01Ssubset_Embeddings.
+8. text_embedding_logreg.pkl: Pickle file for the logistic regression model performed on the text embeddings.
 
 
 
