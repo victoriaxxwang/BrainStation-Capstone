@@ -92,8 +92,8 @@ Of note, the dataset is imbalanced, with 80% positive reviews. To address this, 
 The Reviewer Analyzer app will empower stakeholders to gain actionable insights that can be used to improve product-market fit, outperform competitors, and drive revenue growth.
 
 ### Future Direction 
-1. We can improve the reviewer simiarity research by resolving the edge cases and optimizing embedding transformation and similarity calculations.
-2. We can extract additional insights via other modeling techniques such as cluster analysis, Sequential Neural Network via Keras and Topic Modeling.
+1. Improve the reviewer simiarity research by resolving the edge cases and optimizing embedding transformation and similarity calculations.
+2. Extract additional insights via other modeling techniques such as cluster analysis, Sequential Neural Network via Keras and Topic Modeling.
 
 ### Citations 
 Data Set Citation: McAuley Lab Amazon Reviews'23
@@ -109,11 +109,12 @@ Citation for beauty and personal care category as the most profitable category:
 https://www.statista.com/statistics/1400287/amazon-most-profitable-sellers-category/#:~:text=A%202024%20survey%20found%20that,with%2027%20percent%20of%20sellers.)
 
 ### Notebooks
-1. Part1. Victoria_Wang_Capstone_FullDataSet_EDA
-2. Part2. Victoria_Wang_Capstone_01Ssubset_Embeddings
-3. Part3. Victoria_Wang_Capstone_01Ssubset_CV_TFIDF
-4. Part4. Victoria_Wang_Capstone_NewReviewSentimentPredictor
-5. Streamlit App Demo Review Analyzer: Enhancing Customer Satisfaction with Data-Driven Product Insights. (Please refer to the streamlit_app.py file for the demo. The codes from Part4. Victoria_Wang_Capstone_NewReviewSentimentPredictor was transformed into the streamlit_app.py file in order to run the demo.) 
+1. Part1. Victoria_Wang_Capstone_FullDataSet_EDA: EDA on the Full beauty and personal care category dataset (McAuley Lab Amazon Reviews’23)
+2. Part2. Victoria_Wang_Capstone_01Ssubset_Embeddings: Preprocess text reviews into embeddings by utilizing Sentence-BERT (all-MiniLM-L6-v2 model)
+3. Part3. Victoria_Wang_Capstone_01Ssubset_CV_TFIDF: Preprocess text reviews into using CountVectorizer and TFIDF with SVD for dimensionality reduction.
+4. Part4. Victoria_Wang_Capstone_NewReviewSentimentPredictor: The embeddings from Victoria_Wang_Capstone_01Ssubset_Embeddings and cosine similarity calculations were used to predict new review sentiment and extract similar reviews based on contextual embeddings. 
+5. Streamlit_app.py: Streamlit App Demo Review Analyzer: Enhancing Customer Satisfaction with Data-Driven Product Insights. Please refer to the streamlit_app.py file for the demo. The codes from Part4. Victoria_Wang_Capstone_NewReviewSentimentPredictor was transformed into the streamlit_app.py file in order to run the demo.
+6. Capstone_based_env.yaml: Environment for the notebooks.
 
 
 
