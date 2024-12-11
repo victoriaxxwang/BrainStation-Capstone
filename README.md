@@ -116,6 +116,8 @@ https://www.statista.com/statistics/1400287/amazon-most-profitable-sellers-categ
 5. Streamlit_app.py: Streamlit App Demo Review Analyzer: Enhancing Customer Satisfaction with Data-Driven Product Insights. Please refer to the streamlit_app.py file for the demo. The codes from Part4. Victoria_Wang_Capstone_NewReviewSentimentPredictor was transformed into the streamlit_app.py file in order to run the demo.
 6. Capstone_based_env.yaml: Environment for the notebooks.
 7. Text_embedding_logreg.pkl: PKL file for the logistic regression model performed on the text embeddings.
+8. Victoria_Wang_Sprint3_12082024.pptx: Sprint3 of Capstone Project Slides
+9. Victoria_Wang_DS_Capstone_Demo_12112024.pptx: Capstone Demo Slides 
 
 
 
