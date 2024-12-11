@@ -115,8 +115,7 @@ https://www.statista.com/statistics/1400287/amazon-most-profitable-sellers-categ
 4. Part4. Victoria_Wang_Capstone_NewReviewSentimentPredictor: The embeddings from Victoria_Wang_Capstone_01Ssubset_Embeddings and cosine similarity calculations were used to predict new review sentiment and extract similar reviews based on contextual embeddings. 
 5. Streamlit_app.py: Streamlit App Demo Review Analyzer: Enhancing Customer Satisfaction with Data-Driven Product Insights. Please refer to the streamlit_app.py file for the demo. The codes from Part4. Victoria_Wang_Capstone_NewReviewSentimentPredictor was transformed into the streamlit_app.py file in order to run the demo.
 6. Capstone_based_env.yaml: Environment for the notebooks.
-7. Embedding_X.csv: Embeddings saved from preprocessing performed in notebook Victoria_Wang_Capstone_01Ssubset_Embeddings.
-8. text_embedding_logreg.pkl: Pickle file for the logistic regression model performed on the text embeddings.
+7. Text_embedding_logreg.pkl: PKL file for the logistic regression model performed on the text embeddings.
 
 
 
